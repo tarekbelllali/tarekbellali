@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6533e65-fa76-4981-a0c9-5f8ad21e9a31" name="Default Changelist" comment="" />
+    <list default="true" id="903b0974-b993-4f32-bbe4-91715d4eb561" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1auNsrjTfUcEK8Sp1Itx1HHI2kY" />
+  <component name="ProjectId" id="1auoi2z49LhwF0jKuMj1RMHaCEU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,22 +33,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSSfirstcourse" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/untitled" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b6533e65-fa76-4981-a0c9-5f8ad21e9a31" name="Default Changelist" comment="" />
-      <created>1587581728731</created>
+      <changelist id="903b0974-b993-4f32-bbe4-91715d4eb561" name="Default Changelist" comment="" />
+      <created>1587594962575</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587581728731</updated>
-      <workItem from="1587581730087" duration="5110000" />
-      <workItem from="1588114573075" duration="962000" />
-      <workItem from="1588115627437" duration="81000" />
+      <updated>1587594962575</updated>
+      <workItem from="1587594963875" duration="614000" />
+      <workItem from="1588075341172" duration="770000" />
     </task>
     <servers />
   </component>
@@ -56,17 +54,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="620" y="135" key="FileChooserDialogImpl" timestamp="1588115706107">
+    <state x="429" y="164" key="FileChooserDialogImpl" timestamp="1588079728067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="620" y="135" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588115706107" />
-    <state x="285" y="6" key="SettingsEditor" timestamp="1587586662631">
+    <state x="429" y="164" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588079728067" />
+    <state x="346" y="233" key="com.intellij.ide.util.TipDialog" timestamp="1588075459275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="285" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587586662631" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588115662309">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588115662309" />
+    <state x="346" y="233" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588075459275" />
   </component>
 </project>

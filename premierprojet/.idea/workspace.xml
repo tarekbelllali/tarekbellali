@@ -33,7 +33,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deuxiemeprojet/index.html" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -54,6 +54,8 @@
       <workItem from="1587444263739" duration="161000" />
       <workItem from="1587572239068" duration="1298000" />
       <workItem from="1587581522075" duration="206000" />
+      <workItem from="1588079858526" duration="73000" />
+      <workItem from="1588079932738" duration="310000" />
     </task>
     <servers />
   </component>
@@ -65,6 +67,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="642" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587440700113" />
+    <state x="448" y="170" key="FileChooserDialogImpl" timestamp="1588079950202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="170" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588079950202" />
     <state x="481" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1587572856637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
