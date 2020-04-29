@@ -7,7 +7,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
@@ -41,7 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deuxiemeprojet" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -60,6 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1588080243027</updated>
       <workItem from="1588080253499" duration="14006000" />
+      <workItem from="1588115712054" duration="604000" />
+      <workItem from="1588173151666" duration="949000" />
     </task>
     <servers />
   </component>
@@ -67,9 +70,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="334" y="162" key="FileChooserDialogImpl" timestamp="1588114565613">
+    <state x="334" y="162" key="FileChooserDialogImpl" timestamp="1588174315652">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="334" y="162" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588114565613" />
+    <state x="334" y="162" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588174315652" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588173155615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588173155615" />
   </component>
 </project>

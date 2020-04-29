@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,8 +34,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSSfirstcourse" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tarek\OneDrive\Bureau\github\tarekbellali\deuxiemeprojet\media" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,6 +56,7 @@
       <workItem from="1587581730087" duration="5110000" />
       <workItem from="1588114573075" duration="962000" />
       <workItem from="1588115627437" duration="81000" />
+      <workItem from="1588174323283" duration="13299000" />
     </task>
     <servers />
   </component>
@@ -56,6 +64,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Inspections" timestamp="1588188525984">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1588188525984" />
     <state x="620" y="135" key="FileChooserDialogImpl" timestamp="1588115706107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

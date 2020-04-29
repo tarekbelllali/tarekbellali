@@ -1,0 +1,59 @@
+/* Style.css */
+/* Par Tarek Bellali */
+/* 2020-04-22 */
+
+body
+{
+    background: url("../media/bobo.jpg") no-repeat center;
+    width: 100%; /* On pourrait aussi prendre 100% de la largeur */
+    margin: auto; /* pour centrer le site en largeur */
+}
+h1,h2, h3{color:red}
+h3
+{
+    color: red;
+}
+
+{ background-color : #fd80ff
+}
+
+h1
+{
+    font-size: 36px;
+}
+
+p
+{
+    font-size: 14px;
+}
+
+h { text-align: center}
+
+p{text-align: justify}
+
+p { color: green}
+
+img : hover:{color:olivedrab}
+
+img
+{
+    height: 50px;
+    widht: 30px;
+}
+
+a: visited
+{
+    color: #4f4180;
+}
+
+#titrebonjour {
+    color: mediumvioletred;
+}
+
+#titrebonjour1 {
+    color: orangered;
+}
+
+#titrebonjour2 {
+    color: green;
+}
