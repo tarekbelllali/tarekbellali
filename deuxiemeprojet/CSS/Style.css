@@ -1,4 +1,4 @@
-/* Style.css */
+/* style.css */
 /* Par Tarek Bellali */
 /* 2020-04-22 */
 
@@ -9,13 +9,7 @@ body
     margin: auto; /* pour centrer le site en largeur */
 }
 h1,h2, h3{color:red}
-h3
-{
-    color: red;
-}
 
-{ background-color : #fd80ff
-}
 
 h1
 {
