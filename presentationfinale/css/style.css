@@ -1,0 +1,67 @@
+/* style.css */
+/* Par Tarek Bellali */
+/* 2020-04-22 */
+
+body
+
+{background-color: coral}
+
+{
+    background-repeat: no-repeat
+;
+    background-position: center
+;
+    background-image: url("../media/trader.jpg")
+;
+    width: 900px; /* On pourrait aussi prendre 100% de la largeur */
+    margin: auto; /* pour centrer le site en largeur */
+}
+h1,h2, h3{color:red}
+
+
+h1
+{
+    font-size: 36px;
+}
+
+p
+{
+    font-size: 14px;
+}
+
+h { text-align: center}
+
+p{text-align: justify}
+
+p { color: green}
+
+img : hover:{color:olivedrab}
+
+img
+{
+    height: 300px;
+    widht: 300px;
+}
+
+a: visited
+{
+    color: #4f4180;
+}
+
+#sectionetudes {
+    color: aqua;
+}
+
+#sectionloisirs {
+    color: orangered;
+}
+
+#sectionsports {
+    color: green;
+}
+
+}
+
+#sectionsmonreve {
+    color: yellow;
+}
