@@ -19,7 +19,43 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e49cc49f-a875-4946-9c7b-e26bf6ce6c37" name="Default Changelist" comment="" />
+    <list default="true" id="e49cc49f-a875-4946-9c7b-e26bf6ce6c37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/media/TArek's stocks 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/back1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/back3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/bat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/bitcoin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/business.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/buss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/camenbaire.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/carou1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/carou2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/carou3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/courbe2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/diversification.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/equilibre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/finissant.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/finissants.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/flou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/graduation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/hana.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/market..png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/parallax.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/stoksss.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/tarek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/training.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/wall.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Invest.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/Stocks.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/call.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +86,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Examen22" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -71,7 +107,17 @@
       <updated>1594265349006</updated>
       <workItem from="1594265350325" duration="10285000" />
       <workItem from="1594297813057" duration="11291000" />
-      <workItem from="1594341418940" duration="1127000" />
+      <workItem from="1594341418940" duration="17059000" />
+      <workItem from="1594390150698" duration="27211000" />
+      <workItem from="1594473155945" duration="132000" />
+      <workItem from="1594479745960" duration="225000" />
+      <workItem from="1594574089771" duration="14657000" />
+      <workItem from="1594599774232" duration="11577000" />
+      <workItem from="1594647844829" duration="4006000" />
+      <workItem from="1594655809692" duration="29763000" />
+      <workItem from="1594697422774" duration="8712000" />
+      <workItem from="1594739753271" duration="24680000" />
+      <workItem from="1594822074344" duration="10337000" />
     </task>
     <servers />
   </component>
@@ -91,9 +137,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="335" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594299921757">
+    <state x="335" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594767880302">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="335" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594299921757" />
+    <state x="335" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594767880302" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1594849981641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594849981641" />
   </component>
 </project>

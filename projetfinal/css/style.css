@@ -19,7 +19,10 @@ header video {
     -moz-transform : translateX(-50%) translateY(-50%);
     -webkit-transform : translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
+
 }
+
+
 
 header .container {
 position: relative;
@@ -39,7 +42,7 @@ header .overlay {
 
 
 .navbar {
-    background-color: #efebf1;
+    background-color:#efebf1;
 }
 .navbar .navbar-brand {
     color: #89d971;
@@ -180,4 +183,263 @@ header .overlay {
     color: #ecdbff;
     background-color: #44ad9c;
 }
+
+html,body { margin:0; height:100%;}
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../media/graduation.jpg");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container-fluid {
+    margin-top: 20px;
+    margin-bottom: 1px;
+}
+
+h1 { color: white}
+
+html,body{
+    height: 100%;
+}
+.bg {
+    background-size: cover;
+}
+.bg::after {
+    content:"";
+    background-image: url("../media/wallstreet.jpg");
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+h3 { text-decoration-color: #117a8b}
+
+.police { font-family: "Agency FB"}
+
+p
+{
+    font-size: 20px;
+    text-align: justify;
+    color: black;
+
+}
+
+hr {
+    background: #353434;
+    height: 0.063rem;
+    border-style: none;
+    margin: 2% 0;}
+
+h1 { color: white}
+
+h2{ color: black}
+
+small { color: white}
+
+img{ display: block;
+    margin: fill;}
+
+#back1 {
+    background-image: url("../media/back1.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 9rem;
+    margin: auto;
+}
+
+h3 { text-align: left;
+
+}
+
+
+#back3 {
+    background-image: url("../media/back3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 9rem;
+    margin: auto;
+}
+
+#stoksss {
+    background-image: url("../media/buss.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 4rem;
+    margin: auto;
+
+}
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media screen and (max-width: 992px) {
+    #stoksss { background-image:url("../media/wall.png");
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #stoksss { background-image:url("../media/back1.jpeg");
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: auto;
+    }
+}
+
+
+
+#business { background-image: url("../media/business.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 4rem;
+    margin: auto;
+    opacity:0.8;
+
+}
+
+
+
+#page3 {
+
+             background-color: #efebf1;
+         }
+
+#tarekstocks {background-image: url("../media/TArek's stocks 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 4rem;
+    margin: auto;
+
+}
+
+#containpage3 { background-image: url("../media/stoksss.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 4rem;
+    margin: auto;
+
+}
+
+h4 { font-family: "Microsoft Tai Le" ;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+p2 { font-family: "Arial Black";
+font-size: 30px;}
+
+#jumboton {
+    background-image: url("../media/flou.jpg");
+    background-size: cover;
+    padding: 2rem;
+    margin: auto;
+
+}
+
+
+
+#cardtarek {
+    background-color: white;
+    padding: 1rem;
+    margin-top: unset;
+}
+
+#card1{ margin: 1rem;
+
+}
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-color: darkslategray;
+    padding: 1rem;
+
+}
+
+.title {
+    color: grey;
+    font-size: 18px;
+}
+
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+
+}
+
+button:hover, a:hover {
+    opacity: 0.7;
+}
+
+
+h5 { font-family: "Microsoft Tai Le";
+font-size: 2rem;
+    font-weight: bold
+}
+
+p5 {  background-color: #ba8b00}
+
+p6 { font-family: "Agency FB";
+    font-size: 2rem;
+color: white}
+
+
+
+#courbe { background-image: url("../media/courbe2.jpg");}
+
+#wallstreet1 {
+    background-image: url("../media/wall.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 4rem;
+    margin: auto;
+}
+
+
+#img1 {opacity:0.2}
+@media screen and (max-width: 768px) {
+    #img1{ mask-image: none;
+    }
+}
+
+#butt { text-align: center;
+    font-size:1rem;
+}
+
+
+
+
+
+
 
