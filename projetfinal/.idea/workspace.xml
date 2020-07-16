@@ -20,39 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e49cc49f-a875-4946-9c7b-e26bf6ce6c37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/TArek's stocks 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/back1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/back3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/bat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/bitcoin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/business.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/buss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/camenbaire.jpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/carou1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/carou2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/carou3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/courbe2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/diversification.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/equilibre.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/finissant.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/finissants.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/flou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/graduation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/hana.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/market..png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/parallax.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/stoksss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/tarek.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/training.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/cheminn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/remplace.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Invest.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Stocks.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/call.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
     </list>
@@ -86,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Examen22" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -117,7 +89,8 @@
       <workItem from="1594655809692" duration="29763000" />
       <workItem from="1594697422774" duration="8712000" />
       <workItem from="1594739753271" duration="24680000" />
-      <workItem from="1594822074344" duration="10337000" />
+      <workItem from="1594822074344" duration="19206000" />
+      <workItem from="1594865085624" duration="10460000" />
     </task>
     <servers />
   </component>
@@ -145,5 +118,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594849981641" />
+    <state x="351" y="186" key="run.anything.popup" timestamp="1594862490488">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="351" y="186" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594862490488" />
   </component>
 </project>

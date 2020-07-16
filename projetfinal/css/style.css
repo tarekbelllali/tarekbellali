@@ -190,6 +190,7 @@ html,body { margin:0; height:100%;}
     background-image: url("../media/graduation.jpg");
     /* L’hauteur du Parallax */
     height: 100%;
+    width: 100%;
     /* Création de l’effet */
     background-attachment: fixed;
     background-position: center;
@@ -300,7 +301,7 @@ h3 { text-align: left;
 
 
 
-#business { background-image: url("../media/business.png");
+#business { background-image: url("../media/remplace.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 4rem;
@@ -324,7 +325,7 @@ h3 { text-align: left;
 
 }
 
-#containpage3 { background-image: url("../media/stoksss.jpg");
+#containpage3 { background-image: url("../media/cheminn.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 4rem;
@@ -355,6 +356,7 @@ font-size: 30px;}
     background-color: white;
     padding: 1rem;
     margin-top: unset;
+
 }
 
 #card1{ margin: 1rem;
@@ -364,12 +366,12 @@ font-size: 30px;}
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    max-width: 300px;
+    max-width: 250px;
     margin: auto;
     text-align: center;
     font-family: arial;
-    background-color: darkslategray;
-    padding: 1rem;
+    background-color: #95999c;
+    padding: 0.25rem;
 
 }
 
@@ -437,8 +439,20 @@ color: white}
     font-size:1rem;
 }
 
+#bitcoin{ color: #ba8b00;
+font-size: 2rem}
+
+#dollar{color: #ba8b00;
+    font-size: 2rem }
+
+#euro{ color: #ba8b00;
+    font-size: 2rem}
 
 
+#myCarousel{ background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
 
 
 

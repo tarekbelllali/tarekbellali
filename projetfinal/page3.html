@@ -18,24 +18,24 @@ Derniere modification : 2020-07-08
 </head>
 <body id="page3">
 
-<nav class="navbar navbar-expand-sm">
+<nav class="navbar navbar-expand-lg">
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
             aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <i class="fas fa-hand-holding-usd"></i>
+        <i class="fas fa-euro-sign" id="euro"></i>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-            <li class="nav-item "><a class="nav-link" href="index.html">Côtes</a></li>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item "><a class="nav-link" href="index.html">Trading</a></li>
             <li class="nav-item"><a class="nav-link" href="page2.html">Stocks</a></li>
-            <li class="nav-item active"><a class="nav-link" href="page3.html">Formations</a></li>
+            <li class="nav-item active"><a class="nav-link" href="page3.html">Webinaires</a></li>
         </ul>
     </div>
 </nav>
 
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel slide" data-ride="carousel" >
     <ul class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"> </li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -43,26 +43,27 @@ Derniere modification : 2020-07-08
     </ul>
     <div class="carousel-inner">
 
-        <div class="carousel-item active" >
+        <div class="carousel-item active">
             <div class="texter">  </div>
             <img  class="w-100" src="media/carou1.png" alt="bitcoin" >
-            <div class="carousel-caption">
-                <h3>Los Angeles</h3>
-                <p>We had such a great time in LA!</p>
+            <div class="carousel-caption text-success">
+                <h3>COACHING GRATUIT</h3>
+                <p>Grâce à notre COACHING GRATUIT, vous apprendrez les techniques de base que nos négociants experts utilisent!
+                    </p>
             </div>
         </div>
         <div class="carousel-item">
             <img class="w-100" src="media/carou3.png" alt="market">
-            <div class="carousel-caption">
-                <h3>Los Angeles</h3>
-                <p>We had such a great time in LA!</p>
+            <div class="carousel-caption text-success">
+                <h3>WEBINAIRES & ATELIERS</h3>
+                <p>Commencez immédiatement par un coaching gratuit pour découvrir rapidement comment générer du revenu ou améliorer vos rendements en bourse</p>
             </div>
         </div>
         <div class="carousel-item">
             <img class="w-100" src="media/carou2.png" alt="training">
-            <div class="carousel-caption">
-                <h3>Los Angeles</h3>
-                <p>We had such a great time in LA!</p>
+            <div class="carousel-caption text-success">
+                <h3>ACCOMPAGNEMENT & STRATEGIE</h3>
+                <p>Élaborer un plan d’action destiné à permettre à l’investisseur d’atteindre un équilibre financier à cours ou à moyen terme</p>
             </div>
         </div>
     </div>
@@ -75,12 +76,13 @@ Derniere modification : 2020-07-08
 </div>
 
 
+
 <div class="container-fluid no-gutters text-center" id="containpage3">
 
     <div class="row" >
         <div class="col-6 col-md-6 col-lg-4 " >
 
-                    <h4 class="card-title">Tarek'STOCKS</h4>
+                    <h4 class="card-title text-light">Tarek'STOCKS</h4>
 
         </div>
         <div class="col-6 col-md-6 col-lg-8 " >
@@ -90,7 +92,7 @@ Derniere modification : 2020-07-08
                 Maintenant vous n'aurez plus à vous en soucier
             </p>
 
-            <p2>  Veuillez remplir le formulaire ci-dessous sans tarder </p2>
+            <p2 class="card-title text-warning">  Veuillez remplir le formulaire ci-dessous sans tarder </p2>
 
 
         </div>
@@ -191,11 +193,11 @@ Derniere modification : 2020-07-08
     </div>
     <div class="form-group">
         <label for="inputAddress">Adresse</label>
-        <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+        <input type="text" class="form-control" id="inputAddress" placeholder="1234 saint jean">
     </div>
     <div class="form-group">
         <label for="inputAddress2">Adresse 2</label>
-        <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+        <input type="text" class="form-control" id="inputAddress2" placeholder="Appartement, studio, ou étage">
     </div>
     <div class="form-row">
         <div class="form-group col-md-6">
@@ -205,8 +207,9 @@ Derniere modification : 2020-07-08
         <div class="form-group col-md-4">
             <label for="inputState">Pays</label>
             <select id="inputState" class="form-control">
-                <option selected>Choose...</option>
-                <option>...</option>
+                <option selected>Choisir...</option>
+                <option>USA</option>
+                <option>Canada</option>
             </select>
         </div>
         <div class="form-group col-md-2">
@@ -248,20 +251,21 @@ Derniere modification : 2020-07-08
             <img src="media/logo.png" height="40" width="130"/></div>
 
         <div class=" col-lg-1 " >
-            <i class="fab fa-twitter-square fa-2x "></i>
+            <a target="_blank" href="https://twitter.com/BellaliTarek"><i class="fab fa-twitter-square fa-2x "></i></a>
         </div>
 
         <div class="col-lg-1 " >
-            <i class="fab fa-facebook-square fa-2x "></i>
+            <a target="_blank" href="https://www.facebook.com/changeuser223"><i class="fab fa-facebook-square fa-2x "></i></a>
         </div>
 
         <div class="col-lg-1  " >
-            <i class="fab fa-instagram fa-2x  "></i>
+            <a target="_blank" href="https://www.instagram.com/?hl=fr-ca"><i class="fab fa-instagram fa-2x  "></i></a>
         </div>
 
         <div class="col-lg-1  " >
-            <i class="fab fa-youtube-square fa-2x "></i>
+            <a target="_blank" href="https://www.linkedin.com/in/tarek-tintin-60079510a "><i class="fab fa-youtube-square fa-2x "></i></a>
         </div>
+
 
 
     </div>
