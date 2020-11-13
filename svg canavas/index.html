@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<svg width="100" height="100">
+    <circle cx="50" cy="50" r="40" stroke="green"
+            stroke-width="4" fill="yellow"  />
+
+</svg>
+
+<svg width="100" height="100">
+    <rect x="50" y="50"  width="20" height="20" rx="5"  ry="5">
+          style="fill:red; stroke:black;stroke-width:2;opacity: 0.5 </rect>
+    </svg>
+
+    <circle cx="50" cy="50" r="40" stroke="black"
+            stroke-width="4" fill="green" />
+</svg>
+
+<svg height="210" width="400">
+    <path d="M150 0 L75 200 L225 200 Z" />
+</svg>
+<br>
+
+<svg width="100" height="100">
+    <rect x="50" y="50"  width="20" height="20" rx="5"  ry="5">
+        style="fill:red; stroke:black;stroke-width:2;opacity: 0.5 </rect>
+</svg>
+
+<svg width="100" height="100">
+    <polygon points="0,0 0,50 50.50" fill="green" stroke="1"></polygon>
+</svg>
+
+<svg height="30" width="200">
+    <text x="0" y="15" fill="red">I love SVG!</text>
+</svg>
+
+<canvas id="myCanvas" width="200" height="100"
+        style="border:1px solid #000000"></canvas>
+
+
+<script>
+
+// on stock notre canvas
+let canvas = document.getElementById("myCanvas");
+// on crééer les objet qui vont nous permettre de dessiner
+let ctx= canvas.getContext("2d");
+
+
+
+//créer un gradient
+let grad = ctx.createLinearGradient(0,0,200,0);
+grad.addColorStop(0,"red");
+grad.addColorStop(1,"white");
+
+
+
+//dessier une line du coin haut gauche vers le bas
+// on pointe le coint haut gauche
+ctx.moveTo(0,0);
+ctx.lineTo(600,300);
+ctx.stroke();
+
+//créer un rond
+ctx.beginPath();
+ctx.arc(300,150,20,0,2*Math.PI);
+ctx.stroke();
+ctx.fillStyle = grad;
+
+  //créer un rectange
+ // on choisi notre degradé
+    ctx.fillStyle = grad;
+    ctx.fillRect(0,0,600,300);
+
+//on crée un text
+var canvas = document.getElementById("myCanvas");
+var ctx= canvas.getContext("2d");
+ctx.font= "30px Arial";
+ctx.fillText("Hello World", 10, 50);
+
+
+
+
+
+</script>
+
+</body>
+</html>

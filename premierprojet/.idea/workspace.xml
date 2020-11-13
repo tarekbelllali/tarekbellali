@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4472cf7-22bd-46e0-a19d-4c3e7641ad80" name="Default Changelist" comment="" />
+    <list default="true" id="b4472cf7-22bd-46e0-a19d-4c3e7641ad80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../canvas/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formulaire/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formulaire/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formulaire/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svg canavas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svg canavas/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svg canavas/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetfinal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projetfinal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetfinal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../projetfinal/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,14 +42,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deuxiemeprojet/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../wamp64/www/demonstration/tarektest/wp-content/themes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -56,24 +72,17 @@
       <workItem from="1587581522075" duration="206000" />
       <workItem from="1588079858526" duration="73000" />
       <workItem from="1588079932738" duration="310000" />
+      <workItem from="1603756280501" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="642" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587440700113">
+    <state x="463" y="134" key="FileChooserDialogImpl" timestamp="1603756304296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="642" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587440700113" />
-    <state x="448" y="170" key="FileChooserDialogImpl" timestamp="1588079950202">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="448" y="170" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588079950202" />
-    <state x="481" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1587572856637">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="481" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587572856637" />
+    <state x="463" y="134" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603756304296" />
   </component>
 </project>

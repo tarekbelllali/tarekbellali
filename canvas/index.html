@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<!-- index.html -->
+<!-- Par Tarek Bellali -->
+<!-- Le 2020-10-25 -->
+<!-- Examen 2 -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="bootstrap-4.5.3-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="bootstrap-4.5.3-dist/js/bootstrap.js"></script>
+    <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
+</head>
+<body>
+
+
+
+<div class="container " id="tintin">
+    <div class="row">
+        <div class="col-6 col-md-6 col-lg-8 " >
+<h1>Participez à l'avenir de la race humaine</h1>
+<h4>Inscrivez-vous à la prochaine mission de colonisation sur Mars !</h4>
+            <br>
+        <hr>
+            <br>
+            <form>
+            <table style="width:100%">
+
+                <tr>
+                    <td><p2>Identification</p2><p1>*</p1></td>
+
+                    <td>
+                        <input type="text" class="form-control" maxlength="100" id="Nom"  name="Nom" required>
+                        <label for="Nom"><p2>Nom</p2></label></td>
+                    <td>
+                        <input type="text" class="form-control" maxlength="100" id="Prénom"  name="Prénom" required>
+                        <label for="Prénom"><p2>Prénom</p2></label></td>
+
+                </tr>
+
+                <br>
+
+                <tr>
+                    <td><p2>Date de naissance </p2> <p1>*</p1></td>
+                    <td><input type="date" class="form-control" min="1900-01-01" max="2020-10-23" required id="datedenaissance"  >
+                        </td>
+
+                </tr>
+                <tr>
+                    <td><p2>Numéro de téléphone</p2><p1>*</p1></td>
+
+                        <td><input type="text" class="form-control" required id="textBox" pattern="[0-9]{3}">
+                        <label for="Nom"><p2>Code régional</p2></label></td>
+                    <td>
+                        <input type="text" class="form-control" required id="textBox" pattern="[0-9]{3}-[0-9]{3}">
+                        <label for="Nom"><p2>Numéro de téléphone</p2></label></td>
+                </tr>
+
+                <tr>
+                    <td><p2>E-mail </p2> <p1>*</p1></td>
+                    <td>
+                    <input type="email" class="form-control"required id="email" placeholder="exemple@exemple.com" name="email">
+                        <label for="email"><p2>Email</p2></label></td>
+                </tr>
+
+                <tr>
+                    <td><p2>Adresse </p2> <p1>*</p1></td>
+                    <td><input type="text" class="form-control" required id="inputAddress">
+                        <label for="inputAddress"><p2>Adresse</p2></label> </td>
+
+                    </tr>
+
+                <tr>
+                    <td>    </td>
+                    <td> <input type="text" class="form-control" required id="inputAddress" >
+                        <label for="inputAddress"><p2>Numéro d'appartement</p2></label>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>   </td>
+
+                    <td>
+                        <input type="text" class="form-control" maxlength="100" required id="Ville" name="Ville">
+                        <label for="Nom"><p2>Ville</p2></label></td>
+                    <td>
+                        <input type="text" class="form-control" maxlength="100" required id="État/province" name="État/province">
+                        <label for="Prénom"><p2>État/province</p2></label></td>
+
+                </tr>
+
+                <tr>
+                    <td>   </td>
+
+                    <td>
+                        <input type="text" class="form-control" required id="Codepostal" name="id="Codepostal">
+                        <label for="Codepostal"><p2>Code postal</p2></label></td>
+                </tr>
+
+                <tr>
+                    <td><p2>Sexe </p2> <p1>*</p1></td>
+
+
+                    <td><select required id="inputState" class="form-control">
+                        <option selected></option>
+                        <option>Homme</option>
+                        <option>Femme</option>
+                        <option>Autre</option>
+                    </select></td>
+
+                </tr>
+
+                <tr>
+                    <td><p2>Métier</p2><p1>*</p1></td>
+
+                    <td>
+                        <input type="text" class="form-control" required maxlength="100" >
+                    </td>
+
+
+                </tr>
+
+                <tr>
+                    <td><p2>Présentation</p2></td>
+
+                    <td><textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea></td>
+                </tr>
+
+
+
+                <tr>
+                    <td> </td>
+
+                    <td><input type="submit" value=" Soumettre ma candidature"></td>
+                </tr>
+
+
+
+
+
+
+
+            </table>
+
+            </form>
+
+        </div>
+
+
+        <div class= "col-6 col-md-6 col-lg-4 text-center" id="tarek" >
+
+            <canvas id="monCanvas" width="100" height="100"></canvas>
+
+            <br>
+
+            <svg width="100" height="100">
+
+                <rect x="0" y="0"  width="70" height="100" >
+                    stroke:black;stroke-width:2;opacity: 0.5 </rect>
+
+                <polygon points="25,0 50,50 0,50"  fill="white" stroke="1"></polygon>
+
+
+                <text>
+                    <tspan x="0" y="90" style="fill:white;text-align: right;font-family:'Lucida Console'; font-size: 10px">Destination </tspan>
+                </text>
+
+
+
+            </svg>
+
+            <div id="smart-button-container">
+                <div style="text-align: center;">
+                    <div id="paypal-button-container"></div>
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+</table>
+
+            </form>
+
+        </div>
+
+
+                <div class= "col-6 col-md-6 col-lg-4 text-center" id="tarek" >
+
+                    <canvas id="monCanvas" width="100" height="100"></canvas>
+
+                    <br>
+
+                    <svg width="100" height="100">
+
+                        <rect x="0" y="0"  width="70" height="100" >
+                            stroke:black;stroke-width:2;opacity: 0.5 </rect>
+
+                        <polygon points="25,0 50,50 0,50"  fill="white" stroke="1"></polygon>
+
+
+                        <text>
+                            <tspan x="0" y="90" style="fill:white;text-align: right;font-family:'Lucida Console'; font-size: 10px">Destination </tspan>
+                        </text>
+
+
+
+                    </svg>
+
+                    <div id="smart-button-container">
+                        <div style="text-align: center;">
+                            <div id="paypal-button-container"></div>
+                        </div>
+                    </div>
+
+
+                </div>
+
+    </div>
+</div>
+    </div>
+</div>
+</div>
+</div>
+
+
+
+<script>
+
+
+    function initPayPalButton() {
+        paypal.Buttons({
+            style: {
+                shape: 'rect',
+                color: 'gold',
+                layout: 'vertical',
+                label: 'paypal',
+
+            },
+
+            createOrder: function(data, actions) {
+                return actions.order.create({
+                    purchase_units: [{"amount":{"currency_code":"USD","value":1}}]
+                });
+            },
+
+            onApprove: function(data, actions) {
+                return actions.order.capture().then(function(details) {
+                    alert('Transaction completed by ' + details.payer.name.given_name + '!');
+                });
+            },
+
+            onError: function(err) {
+                console.log(err);
+            }
+        }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+
+
+
+
+    // on stock notre canvas
+    let canvas = document.getElementById("monCanvas");
+    // on crééer les objet qui vont nous permettre de dessiner
+    let ctx= canvas.getContext("2d");
+
+    //créer un rectange
+    // on choisi notre degradé
+    ctx.fillStyle = "black";
+    ctx.fillRect(0,0,500,500);
+
+
+
+    //créer un gradient
+    let degrade = ctx.createRadialGradient(75,50,10,90,60,100);
+    degrade.addColorStop(0,"#FF9333");
+    degrade.addColorStop(1,"#000000");
+
+    //créer un rond
+    ctx.beginPath();
+    ctx.arc(50,50,25,0,2*Math.PI);
+    ctx.stroke();
+    ctx.fillStyle = degrade;
+    ctx.fill();
+
+    ctx.font = "10px impact";
+    ctx.fillStyle = "black";
+    ctx.textAlign = "center";
+    ctx.fillText("MARS", canvas.width/2, canvas.height/2);
+
+
+</script>
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="bootstrap-4.5.3-dist/js/bootstrap.js"></script>
+</body>
+</html>

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<!--
+projetfinaliw2
+Tarek Bellali
+Derniere modification : 2020-11-07
+-->
+
+<html lang="fr-ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>projetfinaliw2</title>
+    <script src="js/script.js"></script>
+    <link rel="icon" type="image/png" href="media/logo.jpg" />
+    <link rel="stylesheet" href="bootstrap-4.5.0-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+
+<body>
+
+<!-- Navbar -->
+
+<nav class="navbar navbar-expand-lg">
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fas fa-tenge"></i>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav mr-auto">
+            <a class="nav-item nav-link active" href="index.html">
+
+                <!-- SVG -->
+
+                <svg height="90" width="200">
+                <defs>
+                    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%"
+                              style="stop-color:rgb(255,255,0);stop-opacity:1" />
+                        <stop offset="100%"
+                              style="stop-color:rgb(255,0,0);stop-opacity:1" />
+                    </linearGradient>
+                </defs>
+                <ellipse cx="100" cy="70" rx="85" ry="55" fill="pink" />
+                <text fill="#00000" font-size="45" font-family="romance"
+                      x="50" y="86">Trade</text>
+               </svg> <span class="sr-only">(current) </span></a>
+
+            <a class="nav-item nav-link" href="index1.html"> Investir </a>
+            <a class="nav-item nav-link" href="index2.html"> Formations </a>
+            <a class="nav-item nav-link" href="index3.html"> Portefeuilles </a>
+            <a class="nav-item nav-link" href="index4.html"> Offices </a>
+
+        </div>
+    </div>
+
+
+</nav>
+
+<!-- header -->
+
+
+<header>
+
+    <div class="overlay"></div>
+    <video playsinline ="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+        <source src="https://media.istockphoto.com/videos/businessman-use-tablet-and-smart-phone-for-stock-market-data-business-video-id895816534">
+        type="video/mp4" >
+    </video>
+    <div class="container container-fluid" >
+        <div class="row h-100 text-center align-items-center" >
+            <div class="col-12 text-white" >
+                <h1 class="display-3" >Trader .. désormais facile</h1>
+                <small class="lead mb-0" > Notre plateforme de training à votre disposition </small>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+<!-- Section1 -->
+
+<div class="container-fluid text-center" id="ind1">
+    <div class="row">
+        <div class="col-lg-12" >
+
+            <h5> COACHING GRATUIT .. OUI </h5>
+
+            <p>  Grâce à notre COACHING GRATUIT, vous apprendrez les techniques de base que nos négociants experts utilisent avec succès.
+                Commencez immédiatement par un coaching gratuit pour découvrir rapidement comment générer du revenu ou améliorer vos rendements en bourse.</p>
+
+
+        </div>
+    </div>
+
+</div>
+
+
+<!-- Section2 -->
+
+
+<div class="container-fluid" id="cardtarek">
+
+    <div class="row" id="cardrow">
+        <div class="col-6 col-md-6 col-lg-4 ">
+
+            <!-- Canvas -->
+
+            <canvas id="canvas" width="150" height="150"></canvas>
+
+        </div>
+        <div class="col-6 col-md-6 col-lg-8 " >
+            <p> Vivez le rêve vous même, croyez en vous
+            </p>
+
+        </div>
+    </div>
+</div>
+
+<!-- footer -->
+
+    <div class="row"id="footer">
+
+        <div class="col-lg-4  " >
+
+            <img src="media/logo.jpg" height="40" width="130"/></div>
+
+        <div class=" col-lg-1 " >
+            <a target="_blank" href="https://twitter.com/BellaliTarek"><i class="fab fa-twitter-square fa-2x "></i></a>
+        </div>
+
+        <div class="col-lg-1 " >
+            <a target="_blank" href="https://www.facebook.com/changeuser223"><i class="fab fa-facebook-square fa-2x "></i></a>
+        </div>
+
+        <div class="col-lg-1  " >
+            <a target="_blank" href="https://www.instagram.com/?hl=fr-ca"><i class="fab fa-instagram fa-2x  "></i></a>
+        </div>
+
+        <div class="col-lg-1  " >
+            <a target="_blank" href="https://www.linkedin.com/in/tarek-tintin-60079510a "><i class="fab fa-youtube-square fa-2x "></i></a>
+        </div>
+
+
+
+    </div>
+
+
+    </div>
+
+
+<!-- Canvas JS -->
+
+<script>
+    var canvas = document.getElementById('canvas');
+    var context = canvas.getContext('2d');
+    var centerX = canvas.width / 2;
+    var centerY = canvas.height / 2;
+    var radius = 70;
+    var eyeRadius = 10;
+    var eyeXOffset = 25;
+    var eyeYOffset = 20;
+
+    // draw the yellow circle
+    context.beginPath();
+    context.arc(centerX, centerY, radius, 0, 2 * Math.PI, false);
+    context.fillStyle = 'yellow';
+    context.fill();
+    context.lineWidth = 5;
+    context.strokeStyle = 'black';
+    context.stroke();
+
+    // draw the eyes
+    context.beginPath();
+    var eyeX = centerX - eyeXOffset;
+    var eyeY = centerY - eyeXOffset;
+    context.arc(eyeX, eyeY, eyeRadius, 0, 2 * Math.PI, false);
+    var eyeX = centerX + eyeXOffset;
+    context.arc(eyeX, eyeY, eyeRadius, 0, 2 * Math.PI, false);
+    context.fillStyle = 'black';
+    context.fill();
+
+    // draw the mouth
+    context.beginPath();
+    context.arc(centerX, centerY, 50, 0, Math.PI, false);
+    context.stroke();
+</script>
+
+
+<script src="https://kit.fontawesome.com/a46d75ba7a.js"></script>
+<script src="bootstrap-4.5.0-dist/js/bootstrap.js"></script>
+
+</body>
+</html>

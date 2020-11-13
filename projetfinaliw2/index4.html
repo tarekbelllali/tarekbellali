@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<!--
+projetfinaliw2
+Tarek Bellali
+Derniere modification : 2020-11-07
+-->
+
+<html lang="fr-ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>projetfinaliw2</title>
+    <link rel="icon" type="image/png" href="media/logo.jpg" />
+    <link rel="stylesheet" href="bootstrap-4.5.0-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet/1/leaflet.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="anime-master/lib/anime.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/leaflet/1/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/places.js@1.19.0"></script>
+
+
+</head>
+
+
+<body id="hihi">
+
+
+<!-- Navbar -->
+
+
+<nav class="navbar navbar-expand-lg">
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fas fa-yen-sign"></i>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item "><a class="nav-link" href="index.html">Trading</a></li>
+            <li class="nav-item "><a class="nav-link" href="index1.html">Investir</a></li>
+            <li class="nav-item "><a class="nav-link" href="index2.html">Formations</a></li>
+            <li class="nav-item"><a class="nav-link" href="index3.html">Portefeuilles</a></li>
+            <li class="nav-item active"><a class="nav-link" href="index4.html">Offices</a></li>
+
+
+        </ul>
+    </div>
+</nav>
+
+
+
+<div class="container-fluid no-gutters text-center" id="containpage3">
+
+    <div class="row" >
+        <div class="col-6 col-md-6 col-lg-4" >
+
+            <!-- SVG -->
+
+            <svg height="180" width="500">
+                <polyline points="0,40 40,40 40,80 80,80 80,120 120,120 120,160"
+                          style="fill:white;stroke:red;stroke-width:4" />
+            </svg>
+
+
+        </div>
+        <div class="col-6 col-md-6 col-lg-8 " >
+            <p> Nos bureaux virtuels sont ouverts 24 heures/24 et 7jours/7
+                <br>
+                COACHING GRATUIT* :
+
+                ✔ 1 heure de coaching virtuel avec l’un de nos experts
+
+                ✔ Des techniques de base pour démarrer rapidement dans l’investissement actif
+
+                * Pour une durée limitée / Limite d’une seule session
+
+            </p>
+
+
+        </div>
+    </div>
+</div>
+
+<!-- Librairie JS Importation Carte graphique avec jsdelivr   -->
+
+
+<div id="map-example-container-paris"></div>
+<input type="search" id="input-map-paris" class="form-control" placeholder="Find a street in Paris, France. Try &quot;Rivoli&quot;" />
+
+
+
+
+<script>
+    (function() {
+        var latlng = {
+            lat: 48.8566,
+            lng: 2.34287
+        };
+
+        var placesAutocomplete = places({
+            appId: '<YOUR_PLACES_APP_ID>',
+            apiKey: '<YOUR_PLACES_API_KEY>',
+            container: document.querySelector('#input-map-paris')
+        }).configure({
+            aroundLatLng: latlng.lat + ',' + latlng.lng, // Paris latitude longitude
+            aroundRadius: 10 * 1000, // 10km radius
+            type: 'address'
+        });
+
+        var map = L.map('map-example-container-paris', {
+            scrollWheelZoom: false,
+            zoomControl: false
+        });
+
+        var osmLayer = new L.TileLayer(
+            'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                minZoom: 12,
+                maxZoom: 18,
+                attribution: 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors'
+            }
+        );
+
+        var markers = [];
+
+        map.setView(new L.LatLng(latlng.lat, latlng.lng), 12);
+        map.addLayer(osmLayer);
+
+        placesAutocomplete.on('suggestions', handleOnSuggestions);
+        placesAutocomplete.on('cursorchanged', handleOnCursorchanged);
+        placesAutocomplete.on('change', handleOnChange);
+
+        function handleOnSuggestions(e) {
+            markers.forEach(removeMarker);
+            markers = [];
+
+            if (e.suggestions.length === 0) {
+                map.setView(new L.LatLng(latlng.lat, latlng.lng), 12);
+                return;
+            }
+
+            e.suggestions.forEach(addMarker);
+            findBestZoom();
+        }
+
+        function handleOnChange(e) {
+            markers
+                .forEach(function(marker, markerIndex) {
+                    if (markerIndex === e.suggestionIndex) {
+                        markers = [marker];
+                        marker.setOpacity(1);
+                        findBestZoom();
+                    } else {
+                        removeMarker(marker);
+                    }
+                });
+        }
+
+        function handleOnClear() {
+            map.setView(new L.LatLng(latlng.lat, latlng.lng), 12);
+        }
+
+        function handleOnCursorchanged(e) {
+            markers
+                .forEach(function(marker, markerIndex) {
+                    if (markerIndex === e.suggestionIndex) {
+                        marker.setOpacity(1);
+                        marker.setZIndexOffset(1000);
+                    } else {
+                        marker.setZIndexOffset(0);
+                        marker.setOpacity(0.5);
+                    }
+                });
+        }
+
+        function addMarker(suggestion) {
+            var marker = L.marker(suggestion.latlng, {opacity: .4});
+            marker.addTo(map);
+            markers.push(marker);
+        }
+
+        function removeMarker(marker) {
+            map.removeLayer(marker);
+        }
+
+        function findBestZoom() {
+            var featureGroup = L.featureGroup(markers);
+            map.fitBounds(featureGroup.getBounds().pad(0.5), {animate: false});
+        }
+    })();
+</script>
+
+<!-- footer -->
+
+<div class="row"id="footer">
+
+    <div class="col-lg-4  " >
+
+        <img src="media/logo.jpg" height="40" width="130"/></div>
+
+    <div class=" col-lg-1 " >
+        <a target="_blank" href="https://twitter.com/BellaliTarek"><i class="fab fa-twitter-square fa-2x "></i></a>
+    </div>
+
+    <div class="col-lg-1 " >
+        <a target="_blank" href="https://www.facebook.com/changeuser223"><i class="fab fa-facebook-square fa-2x "></i></a>
+    </div>
+
+    <div class="col-lg-1  " >
+        <a target="_blank" href="https://www.instagram.com/?hl=fr-ca"><i class="fab fa-instagram fa-2x  "></i></a>
+    </div>
+
+    <div class="col-lg-1  " >
+        <a target="_blank" href="https://www.linkedin.com/in/tarek-tintin-60079510a "><i class="fab fa-youtube-square fa-2x "></i></a>
+    </div>
+
+
+
+</div>
+
+</div>
+
+<script src="js/script.js"></script>
+<script src="https://kit.fontawesome.com/a46d75ba7a.js"></script>
+<script src="bootstrap-4.5.0-dist/js/bootstrap.js"></script>
+
+</body>
+</html>
+

@@ -20,13 +20,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e49cc49f-a875-4946-9c7b-e26bf6ce6c37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/cheminn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/remplace.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canvas/.idea/canvas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canvas/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formulaire/.idea/formulaire.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formulaire/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formulaire/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formulaire/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/.idea/hellojavascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript1/.idea/hellojavascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript3/.idea/javascript3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript4/.idea/javascript4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript6/.idea/javascript6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/.idea/projetfinaliw2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/media/blanc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/media/bleu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/media/diagramme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svg canavas/.idea/svg canavas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svg canavas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svg canavas/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svg canavas/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../premierprojet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../premierprojet/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +87,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -90,7 +121,16 @@
       <workItem from="1594697422774" duration="8712000" />
       <workItem from="1594739753271" duration="24680000" />
       <workItem from="1594822074344" duration="19206000" />
-      <workItem from="1594865085624" duration="10460000" />
+      <workItem from="1594865085624" duration="11062000" />
+      <workItem from="1598814499570" duration="950000" />
+      <workItem from="1599614528865" duration="1506000" />
+      <workItem from="1602999196773" duration="1479000" />
+      <workItem from="1603030106119" duration="2834000" />
+      <workItem from="1603033123397" duration="5047000" />
+      <workItem from="1603495131394" duration="5448000" />
+      <workItem from="1605056025461" duration="12414000" />
+      <workItem from="1605136721983" duration="6261000" />
+      <workItem from="1605216369119" duration="4416000" />
     </task>
     <servers />
   </component>
@@ -110,17 +150,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="335" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594767880302">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605136773301">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="335" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594767880302" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1594849981641">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594849981641" />
-    <state x="351" y="186" key="run.anything.popup" timestamp="1594862490488">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="351" y="186" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594862490488" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605136773301" />
   </component>
 </project>
