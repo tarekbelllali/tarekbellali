@@ -365,7 +365,7 @@ p2 { font-family: "Arial Black";
     margin: auto;
     text-align: center;
     font-family: arial;
-    background-color: #95999c;
+    background-color: #0c5460;
     padding: 0.25rem;
 
 }
@@ -570,6 +570,13 @@ p4 { color: white;
     background-size: cover;
     padding: 4rem;
     margin: auto;
+}
+
+#cardtarek1 {
+    background-color: #0c5460;
+    padding: 1rem;
+    margin-top: unset;
+
 }
 
 

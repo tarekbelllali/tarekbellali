@@ -20,43 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e49cc49f-a875-4946-9c7b-e26bf6ce6c37" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../canvas/.idea/canvas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../canvas/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../canvas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/.idea/formulaire.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../formulaire/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/.idea/hellojavascript.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript1/.idea/hellojavascript.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript3/.idea/javascript3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript4/.idea/javascript4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/javascript6/.idea/javascript6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hellojavascript/jsexercice/question4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/.idea/projetfinaliw2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/media/blanc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/media/bleu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projetfinaliw2/media/diagramme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../svg canavas/.idea/svg canavas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../svg canavas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../svg canavas/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../svg canavas/index3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../premierprojet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../premierprojet/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/tarek.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../projetfinaliw2/media/tarek.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetfinaliw2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../projetfinaliw2/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetfinaliw2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../projetfinaliw2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetfinaliw2/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../projetfinaliw2/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetfinaliw2/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../projetfinaliw2/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetfinaliw2/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../projetfinaliw2/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetfinaliw2/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../projetfinaliw2/index4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +102,8 @@
       <workItem from="1605056025461" duration="12414000" />
       <workItem from="1605136721983" duration="6261000" />
       <workItem from="1605216369119" duration="4416000" />
+      <workItem from="1605273588654" duration="605000" />
+      <workItem from="1607644984396" duration="492000" />
     </task>
     <servers />
   </component>
@@ -150,9 +123,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605136773301">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605274797542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605136773301" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605274797542" />
   </component>
 </project>
