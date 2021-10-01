@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Documentation Myle &#8211; Myle</title>
+	<atom:link href="/kb-myle/category/documentation-myle/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Knowledge Base</description>
+	<lastBuildDate>Mon, 27 Sep 2021 02:55:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-2021-07-27-17_43_55-medfar-logo-–-Recherche-Google-32x32.png</url>
+	<title>Documentation Myle &#8211; Myle</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MYLE Académie</title>
+		<link>/kb-myle/myle-academie/</link>
+		
+		<dc:creator><![CDATA[tarek]]></dc:creator>
+		<pubDate>Mon, 27 Sep 2021 02:45:06 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=169</guid>
+
+					<description><![CDATA[FAX-WEB 1 &#8211; Can all types of medical professionals use the fax-web or is it only for doctors? All medical professionals who have the permission can use the fax-web, can re-sent fax from portfoliotab if there&#8217;s an issue. 2 &#8211; How many pages can one send in one fax? between 20-30 pages for optimal sending [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>FAX-WEB</h2>
+
+
+
+<p>1 &#8211; Can all types of medical professionals use the fax-web or is it only for doctors?</p>
+
+
+
+<p>All medical professionals who have the permission can use the fax-web, can re-sent fax from portfolio<br>tab if there&rsquo;s an issue.</p>
+
+
+
+<p></p>
+
+
+
+<p>2 &#8211; How many pages can one send in one fax?</p>
+
+
+
+<p>between 20-30 pages for optimal sending fax, if we send more the temp memory fax will be more and<br>more lazy</p>
+
+
+
+<p></p>
+
+
+
+<p>3 &#8211; How can I change my PIN?</p>
+
+
+
+<p>Click on (Nip) setup the 4 digit code to activate NIP and protect sending fax. PS: Needs Double confirmation</p>
+
+
+
+<p></p>
+
+
+
+<p>4- How can I add my signature?</p>
+
+
+
+<p>Yes, we are able to add our signature, we click on signature and import png file from our device</p>
+
+
+
+<p></p>
+
+
+
+<p>5- How, and where can I track my statuses?</p>
+
+
+
+<p>On Portfolio tab, we can check if the fax is sent or not, also there&rsquo;s a red color showing if (fax issue)</p>
+
+
+
+<p></p>
+
+
+
+<p>6- Why can&rsquo;t I see the fax option, after adding the PIN number and my signature?</p>
+
+
+
+<p>To see fax options, we have to make sure that fax number is checked on configuration</p>
+
+
+
+<p></p>
+
+
+
+<p>7- Can they fax out to people who aren&rsquo;t medical professionals? (ex: lawyers, housing .. )</p>
+
+
+
+<p>Yes, people who aren&rsquo;t medical professional can receive faxes from fax web</p>
+
+
+
+<p></p>
+
+
+
+<p>8- Can we receive faxes in MYLE, or only send out?</p>
+
+
+
+<p>We are only able to send fax from Myle</p>
+
+
+
+<p></p>
+
+
+
+<p>9- What are the documents that can be faxed ?</p>
+
+
+
+<p>Prescriptions, forms.</p>
+
+
+
+<h2>TéléMed</h2>
+
+
+
+<p>1 &#8211; Does MYLE Telemed require downloading an application?</p>
+
+
+
+<p>No, From the Myle portal then patient file</p>
+
+
+
+<p></p>
+
+
+
+<p>2- When is the link sent to the patient?</p>
+
+
+
+<p>When the doctor clicks on the camera at the top of the page, then he chooses options: immediately or<br>next appointment, then the link is sent to the email address of the patient</p>
+
+
+
+<p></p>
+
+
+
+<p>3- What does the &lsquo;Picture in Picture&rsquo; option do?</p>
+
+
+
+<p>an option on settings keeps the picture already display on the screen when we change tabs or panorama</p>
+
+
+
+<p></p>
+
+
+
+<p>4 How can a doctor initiat an immediate teleconsultation with a patient?</p>
+
+
+
+<p>Yes by selecting the option (Immidatly)</p>
+
+
+
+<p></p>
+
+
+
+<p>5- How can a regual service become a teleconsulation?</p>
+
+
+
+<p>we are able to change tyoe of service from ( service/combo ) by checking ( teleconsultation )</p>
+
+
+
+<p></p>
+
+
+
+<p>6- Can more than two individuals be connected on an ongoing teleconsultation?</p>
+
+
+
+<p>Yes, befor sending the invitation you can tape another email adress and check ( ajouter le courriel aux<br>informations du contact patient )</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
