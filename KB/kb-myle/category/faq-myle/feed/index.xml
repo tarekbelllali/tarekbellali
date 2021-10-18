@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FAQ Myle &#8211; Myle</title>
+	<atom:link href="/kb-myle/category/faq-myle/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Knowledge Base</description>
+	<lastBuildDate>Wed, 28 Jul 2021 17:36:15 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-2021-07-27-17_43_55-medfar-logo-–-Recherche-Google-32x32.png</url>
+	<title>FAQ Myle &#8211; Myle</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pour les services du module d&#8217;administration, que signifie le fait que le paramètre « Clientèle » soit réglé sur « Clinique » ?</title>
+		<link>/kb-myle/pour-les-services-du-module-dadministration-que-signifie-le-fait-que-le-parametre-clientele-soit-regle-sur-clinique/</link>
+		
+		<dc:creator><![CDATA[tarek]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2021 03:48:25 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=88</guid>
+
+					<description><![CDATA[Cela comprend les patients qui sont suivis par un des intervenants de la clinique. Donc une clientèle Clinique représente tout patient qui est suivi par un médecin de famille travaillant à la clinique]]></description>
+										<content:encoded><![CDATA[
+<p>Cela comprend les patients qui sont suivis par un des intervenants de la clinique. Donc une clientèle Clinique représente tout patient qui est suivi par un médecin de famille travaillant à la clinique</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pourquoi Xcomm est recommandé vs Fax-Web ?</title>
+		<link>/kb-myle/pourquoi-xcomm-est-recommande-vs-fax-web/</link>
+		
+		<dc:creator><![CDATA[tarek]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2021 03:45:37 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=83</guid>
+
+					<description><![CDATA[Myle Xcomm nous permet de gérer les communications externes soit en ajoutant une communication externe a partir de l&#8217;onglet patient, soit en visualisant le contenu de la communication. De ce fait, nous pouvons recevoir et envoyer d&#8217;un environnement Myle a un environnement Myle. Nous pouvons également importer des dossier patients pour faciliter la gestion des [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Myle Xcomm nous permet de gérer les communications externes soit en ajoutant une communication externe a partir de l&rsquo;onglet patient, soit en visualisant le contenu de la communication. De ce fait, nous pouvons recevoir et envoyer d&rsquo;un environnement Myle a un environnement Myle. Nous pouvons également importer des dossier patients pour faciliter la gestion des patients entre les professionnels qui ne sont pas dans la même clinique. Par contre avec le Fax-Web, l&rsquo;option de réception est restreinte pour le moment et Myle ne l&rsquo;offre pas ainsi les transmissions de communications se limitent a des envois de pdf et documents.</p>
+
+
+
+<p>Telemed est ce une application téléchargeable ?</p>
+
+
+
+<p>Telemed est une innovation permettant la communication a distance via un lien que le patient recevra et cliquera</p>
+
+
+
+<h2>Elegant Layouts</h2>
+
+
+
+<p>Elegant Layouts adds Grid and Sidebar Layouts. Use Grid Layout or Sidebar Layout for KB Main page or combine Basic, Tabs, Grid and Sidebar layouts in a variety ways.<br><a href="https://www.echoknowledgebase.com/wordpress-plugin/elegant-layouts/?utm_source=plugin&amp;utm_medium=addons&amp;utm_content=home&amp;utm_campaign=elegant-layouts" target="_blank" rel="noreferrer noopener">Learn More</a></p>
+
+
+
+<h2>Multiple Knowledge Bases</h2>
+
+
+
+<p>Create Multiple Knowledge Bases, one for each product, service, topic or department. Each Knowledgebase has separate articles, URLs, KB Main Page and admin screens.<br><a href="https://www.echoknowledgebase.com/wordpress-plugin/multiple-knowledge-bases/?utm_source=plugin&amp;utm_medium=addons&amp;utm_content=home&amp;utm_campaign=multiple-kbs" target="_blank" rel="noreferrer noopener">Learn More</a></p>
+
+
+
+<h2>Advanced Search</h2>
+
+
+
+<p>Enhance users&rsquo; search experience and view search analytics, including popular searches and no results searches.<br><a href="https://www.echoknowledgebase.com/wordpress-plugin/advanced-search/?utm_source=plugin&amp;utm_medium=addons&amp;utm_content=home&amp;utm_campaign=advanced-search" target="_blank" rel="noreferrer noopener">Learn More</a></p>
+
+
+
+<h2>Article Rating and Feedback</h2>
+
+
+
+<p>Let your readers rate the quality of your articles and submit insightful feedback. Utilize analytics on most and least rated articles.<br><a href="https://www.echoknowledgebase.com/wordpress-plugin/article-rating-and-feedback/?utm_source=plugin&amp;utm_medium=addons&amp;utm_content=home&amp;utm_campaign=article-rating" target="_blank" rel="noreferrer noopener">Learn More</a></p>
+
+
+
+<h2>Widgets</h2>
+
+
+
+<p>Add Knowledgebase Search, Most Recent Articles and other Widgets and Shortcodes to your articles, sidebars and pages.<br><a href="https://www.echoknowledgebase.com/wordpress-plugin/widgets/?utm_source=plugin&amp;utm_medium=addons&amp;utm_content=home&amp;utm_campaign=widgets" target="_blank" rel="noreferrer noopener">Learn More</a></p>
+
+
+
+<h2>Links Editor for PDFs and More</h2>
+
+
+
+<p>Set Articles to links to PDFs, pages, posts and websites. On KB Main Page, choose icons for your articles.<br><a href="https://www.echoknowledgebase.com/wordpress-plugin/links-editor-for-pdfs-and-more/?utm_source=plugin&amp;utm_medium=addons&amp;utm_content=home&amp;utm_campaign=links-editor" target="_blank" rel="noreferrer noopener">Learn More</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Est t-il possible de check-in un 2ème rdv alors que le patient ne s&#8217;est pas présenter au 1er ?</title>
+		<link>/kb-myle/est-t-il-possible-de-check-in-un-2eme-rdv-alors-que-le-patient-ne-sest-pas-presenter-au-1er/</link>
+		
+		<dc:creator><![CDATA[tarek]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2021 03:41:48 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=81</guid>
+
+					<description><![CDATA[Non, le check-in sera refusé]]></description>
+										<content:encoded><![CDATA[
+<p>Non, le check-in sera refusé </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pourquoi recommandons-nous de ne pas marquer un rappel comme complété tant que le patient n&#8217;est pas à la clinique ?</title>
+		<link>/kb-myle/pourquoi-recommandons-nous-de-ne-pas-marquer-un-rappel-comme-complete-tant-que-le-patient-nest-pas-a-la-clinique/</link>
+		
+		<dc:creator><![CDATA[tarek]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2021 03:35:38 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=79</guid>
+
+					<description><![CDATA[Il n&#8217;est pas recommandé de marquer un rappel comme complété si le patient ne se presente pas a la clinique car si ce dernier s&#8217;absente pour une raison X et n&#8217;informe pas la clinique nous perdrons la trace de son rappel d&#8217;où le rendez-vous qu&#8217;il devrait prendre aussi, par exemple s&#8217;il s&#8217;agit d&#8217;un rappel de test de dépistage de diabète demandé préventivement par le médecin Que diriez-vous si une clinique vous demandait comment effacer un service ? Il va falloir simplement désassocier l&#8217;utilisateur du service en cliquant sur le X devant le nom de l&#8217;utilisateur dans la case (employés). Par la suite ( Optionnelle) en voulant créer un autre service, l&#8217;admin pourra modifier le nom du service et associer des utilisateurs. Que feriez-vous pour que, chaque fois que vous créez un nouveau patient, la province par défaut pour le numéro de carte d&#8217;assurance maladie et l&#8217;adresse soit la Colombie-Britannique ? Il va falloir changer la configuration du site actif a partir [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Il n&rsquo;est pas recommandé de marquer un rappel comme complété si le patient ne se presente pas a la clinique car si ce dernier s&rsquo;absente pour une raison X et n&rsquo;informe pas la clinique nous perdrons la trace de son rappel d&rsquo;où le rendez-vous qu&rsquo;il devrait prendre aussi, par exemple s&rsquo;il s&rsquo;agit d&rsquo;un rappel de test de dépistage de diabète demandé préventivement par le médecin</p>
+
+
+
+<p></p>
+
+
+
+<p>Que diriez-vous si une clinique vous demandait comment effacer un service ?</p>
+
+
+
+<p></p>
+
+
+
+<p>Il va falloir simplement désassocier l&rsquo;utilisateur du service en cliquant sur le X devant le nom de l&rsquo;utilisateur dans la case (employés). Par la suite ( Optionnelle) en voulant créer un autre service, l&rsquo;admin pourra modifier le nom du service et associer des utilisateurs. </p>
+
+
+
+<p></p>
+
+
+
+<p>Que feriez-vous pour que, chaque fois que vous créez un nouveau patient, la province par défaut pour le numéro de carte d&rsquo;assurance maladie et l&rsquo;adresse soit la Colombie-Britannique ?</p>
+
+
+
+<p></p>
+
+
+
+<p>   Il va falloir changer la configuration du site actif a partir de l&rsquo;onglet ( Configuration ). </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

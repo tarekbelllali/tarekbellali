@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Myle Clinic &#8211; Myle</title>
+	<atom:link href="/kb-myle/category/myle-clinic/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Knowledge Base</description>
+	<lastBuildDate>Thu, 23 Sep 2021 02:55:54 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-2021-07-27-17_43_55-medfar-logo-–-Recherche-Google-32x32.png</url>
+	<title>Myle Clinic &#8211; Myle</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DSQ</title>
+		<link>/kb-myle/dsq/</link>
+		
+		<dc:creator><![CDATA[tarek]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2021 02:54:09 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=69</guid>
+
+					<description><![CDATA[Synchronisation sur deux volets : Syncronisation du user avec son DSQ Synchronisation du dossier patient au DSQ Les Différents troubleshouting DSQ 1- Smart card non identifiée : La clé DSQ n&#8217;est pas lu par l&#8217;ordinateur Une fois dans Gestionnaire de périphérique, nous allons mettre à jour le pilote de la carte à puce 2 &#8211; [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Synchronisation sur deux volets :</p>
+
+
+
+<ul><li>Syncronisation du user avec son DSQ</li><li>Synchronisation du dossier patient au DSQ</li></ul>
+
+
+
+<h2>Les Différents troubleshouting DSQ</h2>
+
+
+
+<ul><li>1- Smart card non identifiée : La clé DSQ n&rsquo;est pas lu par l&rsquo;ordinateur</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="284" src="/wp-content/uploads/2021/09/2021-09-22-22_30_10-Greenshot-image-editor-1024x284.png" alt="" class="wp-image-158" srcset="/wp-content/uploads/2021/09/2021-09-22-22_30_10-Greenshot-image-editor-1024x284.png 1024w, /wp-content/uploads/2021/09/2021-09-22-22_30_10-Greenshot-image-editor-300x83.png 300w, /wp-content/uploads/2021/09/2021-09-22-22_30_10-Greenshot-image-editor-768x213.png 768w, /wp-content/uploads/2021/09/2021-09-22-22_30_10-Greenshot-image-editor-720x199.png 720w, /wp-content/uploads/2021/09/2021-09-22-22_30_10-Greenshot-image-editor.png 1336w" sizes="(min-width: 960px) 75vw, 100vw" /></figure>
+
+
+
+<p>Une fois dans Gestionnaire de périphérique, nous allons mettre à jour le pilote de la carte à puce </p>
+
+
+
+<ul><li>2 &#8211; En cours ..</li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Résultats</title>
+		<link>/kb-myle/resultats/</link>
+		
+		<dc:creator><![CDATA[tarek]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2021 02:53:09 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=67</guid>
+
+					<description><![CDATA[● Statut résultat ○ Tous les résultats électroniques de la clinique○ Notifications: bulle bleue: résultats non-ouvertsStatus des résultats○ Correspond à l&#8217;état du résultat● Nouveau: première fois que le résultat entre● Corrigé: résultat entre pour une deuxième fois mais avec des valeurs supplémentaires● En attente● Classé/en attente par un collègue: résultat a été vu et classé [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>● Statut résultat</h2>
+
+
+
+<p><br>○ Tous les résultats électroniques de la clinique<br>○ Notifications: bulle bleue: résultats non-ouverts<br>Status des résultats<br>○ Correspond à l&rsquo;état du résultat<br>● Nouveau: première fois que le résultat entre<br>● Corrigé: résultat entre pour une deuxième fois mais avec des valeurs supplémentaires<br>● En attente<br>● Classé/en attente par un collègue: résultat a été vu et classé ou mis en attente par un<br>collègue<br>○ Quand même dans les nouveaux résultats<br>● *** Résultats classés ne sont pas dans la liste de nouveaux résultats<br>○ Sont dans la liste de résultats classés</p>
+
+
+
+<h2><br>● Couleurs</h2>
+
+
+
+<p><br>○ Rouge: contient une valeur anormale<br>○ Noir: ne contiennent pas une valeur anormale ou de valeur cible<br>■ Uniquement valeurs normales<br>○ Gras: non ouverts<br>○ Normes déterminées par le laboratoire<br>Classer et mettre en attente<br>● Peut être fait directement de la grille<br>● Un résultat est mis en attente lorsqu’il manque des données</p>
+
+
+
+<h2> ● Ouvrir un résultat</h2>
+
+
+
+<p><br>● Un résultat est présenté en 3 sections<br>○ Par défaut: les résultats complets sont ouvert<br>■ Colonne référence: les valeurs entre lesquelles le résultat est considéré<br>normal<br>○ Informations supplémentaires: détails de l’envoie et de la réception<br>■ Pièces jointes: si format PDF<br>○ Valeurs hors normes<br>● Pour voir l’historique d’une valeur: cliquez sur graphe pour voir variation dans le temps<br>● Important<br>○ Classer: va seulement classer un document sans créer de note<br>○ Cliquer sur une valeur crée une note sur la valeur<br>■ Une fois la note créer<br>● “Classer et approuver”: classe le résultat et approuve la note<br>● “Classer et ouvrir”: classe le résultat et ouvre la note avec les<br>sections formulaires et prescripteur<br>■ Les notes sont créées et montrées dans la colonne note du tableau<br>● Point d’exclamation: des notes ou actions supplémentaires<br>peuvent être visualisées en cliquant sur le résultat<br>○ La coche mettre en attente met la note en attente<br>○ Les flèches en bas à gauche passe au prochain résultat sans faire d’action<br>○ Si un résultat est classé trop vite, il peut être retrouvé dans la liste de résultats<br>classés<br>○ Actions<br>■ Les actions sont comme des tâches<br>■ Les actions ne seront pas affichées dans communications<br>● Seulement dans la section action de l’onglet résultat</p>
+
+
+
+<p>■ Il n’y a pas de notifications associés aux actions<br>Gérer un résultat à partir de l’onglet résultats<br>● Grille centrale<br>○ Liste des résultat<br>○ Voir nouveaux résultats<br>● Imprimer un rapport<br>○ Doit contenir une pièce jointe<br>○ Seulement possible d’imprimer la pièce jointe<br>Voir résultats DSQ<br>● Ouvrir le dossier patient, cliquer sur documents reçus, sélectionner “imagerie DSQ” ou<br>“laboratoire DSQ”</p>
+
+
+
+<h2>Recevoir les résultats dans Myle</h2>
+
+
+
+<p><br>● 2 types de résultats reçus par internet<br>○ Privés<br>■ Envoyés directement du laboratoire à MYLE<br>○ Publics<br>■ Les résultats passent pas un technocentre régional, qui nous envoie les<br>résultats<br>● Il y a 18 régions<br>● Chaque région fait affaire avec un technocentre différent<br>● Chaque technocentre a des capacités différentes.<br>○ Ex.: certains envoient les labos seulement en papier, ils<br>n’apparaissent pas sur MYLE<br>○ Si résultat est reçu papier et numérisé pour mettre sur<br>MYLE, il apparaîtra dans la section documents<br>■ Messages envoyés par message HL7 (Health Level 7) qui est un mode<br>de communication standardisé pour informations médicales entre logiciels<br>■ MYLE traduit les résultats HL7<br>● Association HL7 &#8211; MYLE<br>○ MYLE associe les résultats au bon médecin à l’aide du numéro de permis<br>○ MYLE associe les résultats au bon patient à l’aide du NAM<br>■ Si pas de NAM, les dossier ne sont pas associés. Il faut les lier en<br>cliquant sur “lier” dans la bannière des informations patient en haut du<br>résultat ouvert<br>● *** SI ON N’A PAS REÇU UN RÉSULTAT ET QU’ON PPELLE LE TECHNOCENTRE<br>ON DOIT SAVOIR<br>■ Si le médecin a vu le résultat ailleurs mais qu’il n&rsquo;apparaît pas sur MYLE<br>○ Pour quel médecin: Nom, prénom et numéro de license</p>
+
+
+
+<p>■ Plus compliqué pour les infirmières praticiennes et cliniciennes: ils<br>prescrivent avec leur numero de RAMQ mais ont leur numéro de permis à<br>l’OIIQ pour les résultats (doit être écrit -IF))<br>■ C’est qui le patient: NAM ou nom, prénom et date de naissance<br>○ Requérant:<br>○ Patient:<br>○ Numéro de requête:<br>○ Date de prélèvement:<br>○ Établissement émetteur:<br>● Les résultats qu’on reçoit vont directement au dossier patient, ils ne changent pas</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Prescriptions</title>
+		<link>/kb-myle/prescriptions/</link>
+		
+		<dc:creator><![CDATA[tarek]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2021 02:52:40 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=65</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Note</title>
+		<link>/kb-myle/additional-resources/</link>
+		
+		<dc:creator><![CDATA[tarek]]></dc:creator>
+		<pubDate>Tue, 27 Jul 2021 22:51:26 +0000</pubDate>
+				<guid isPermaLink="false">/knowledge-base/additional-resources/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id eu nisl nunc mi. Sed nisi lacus sed viverra tellus in hac habitasse platea. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Eleifend donec pretium vulputate sapien nec.]]></description>
+										<content:encoded><![CDATA[<h2>Accessibilité et utilisation</h2>
+<p>Tout utilisateur ayant accès au dossier patient et ayant un service ( type de rdv ) assigné à son nom dans ( Configuration / Service ).</p>
+<p><em>This is an un-ordered list</em></p>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+<li>Vestibulum auctor dapibus neque.</li>
+</ul>
+<p>Sit amet luctus venenatis lectus magna fringilla urna. Arcu cursus euismod quis viverra. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus. Integer vitae justo eget magna fermentum iaculis eu non diam. Sit amet consectetur adipiscing elit ut aliquam purus sit amet. Quisque sagittis purus sit amet volutpat consequat mauris. Nunc faucibus a pellentesque sit. Eu non diam phasellus vestibulum lorem sed risus ultricies. Lobortis scelerisque fermentum dui faucibus in ornare quam. Libero justo laoreet sit amet cursus sit amet dictum. Sit amet mattis vulputate enim. Sit amet nisl suscipit adipiscing bibendum est ultricies. Euismod lacinia at quis risus sed vulputate odio ut enim. At tellus at urna condimentum mattis pellentesque id nibh. Sit amet nulla facilisi morbi tempus. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Senectus et netus et malesuada fames. Orci porta non pulvinar neque laoreet.</p>
+<p>Risus quis varius quam quisque. Egestas dui id ornare arcu odio ut sem nulla pharetra. Porta lorem mollis aliquam ut porttitor. Quam nulla porttitor massa id neque aliquam vestibulum morbi blandit. Egestas purus viverra accumsan in nisl. Fermentum odio eu feugiat pretium nibh ipsum consequat nisl. Integer vitae justo eget magna fermentum iaculis eu. Accumsan in nisl nisi scelerisque. Id venenatis a condimentum vitae. Sed sed risus pretium quam vulputate dignissim suspendisse. Pellentesque diam volutpat commodo sed egestas egestas.</p>
+<h3>This is a H3 heading</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id eu nisl nunc mi. Sed nisi lacus sed viverra tellus in hac habitasse platea. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Eleifend donec pretium vulputate sapien nec. Neque aliquam vestibulum morbi blandit cursus risus. Ultrices dui sapien eget mi proin sed. Massa massa ultricies mi quis hendrerit dolor. Ullamcorper malesuada proin libero nunc consequat interdum varius sit. Risus feugiat in ante metus dictum at tempor. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Risus nullam eget felis eget nunc lobortis. Malesuada nunc vel risus commodo viverra. Amet commodo nulla facilisi nullam. Vel risus commodo viverra maecenas accumsan lacus vel facilisis volutpat. Urna condimentum mattis pellentesque id nibh. Aliquam purus sit amet luctus. Vestibulum lorem sed risus ultricies.</p>
+<h4>This is a H4 heading</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id eu nisl nunc mi. Sed nisi lacus sed viverra tellus in hac habitasse platea. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Eleifend donec pretium vulputate sapien nec. Neque aliquam vestibulum morbi blandit cursus risus. Ultrices dui sapien eget mi proin sed. Massa massa ultricies mi quis hendrerit dolor. Ullamcorper malesuada proin libero nunc consequat interdum varius sit. Risus feugiat in ante metus dictum at tempor. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Risus nullam eget felis eget nunc lobortis. Malesuada nunc vel risus commodo viverra. Amet commodo nulla facilisi nullam. Vel risus commodo viverra maecenas accumsan lacus vel facilisis volutpat. Urna condimentum mattis pellentesque id nibh. Aliquam purus sit amet luctus. Vestibulum lorem sed risus ultricies.</p>
+<p><strong>This is an ordered list</strong></p>
+<ol>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+<li>Vestibulum auctor dapibus neque.</li>
+</ol>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
